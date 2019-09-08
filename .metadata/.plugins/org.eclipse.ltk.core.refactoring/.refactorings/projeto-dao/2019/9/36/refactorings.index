@@ -6,3 +6,12 @@
 1567767809470	Rename type 'Departmentos'
 1567861808256	Delete element
 1567862301639	Rename type 'VendedoresDAOimpljdbc'
+1567862629784	Rename type 'Programa'
+1567862700739	Rename type 'DepartamentosDAO'
+1567862723952	Rename type 'FabricaDAO'
+1567862743100	Rename type 'VendedoresDAO'
+1567862763834	Rename type 'VendedoresDAOjdbc'
+1567862774113	Rename type 'Departamentos'
+1567862784165	Rename type 'Vendedores'
+1567865093099	Rename type 'DepartamentDao'
+1567865109941	Rename type 'Departament'
